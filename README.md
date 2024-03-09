@@ -21,7 +21,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arslanai&show_icons=true&locale=en&layout=compact" alt="arslanai" /></p>
 
-<img align="right" width="400px"src="![alt text](2108b1128233439.615236a4da3da-1.gif)">
+<img align="right" width="400px"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FDietitians-on-Demand-computer-scroll-webinar-1KllEBZdsLBwt3sDMG&psig=AOvVaw2H_OCZTRgNjuRM8YVoOdej&ust=1710036344260000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICD7PiL5oQDFQAAAAAdAAAAABAE">
 
 
 
