@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning **Web and Mobile App development**
 
 - 📫 How to reach me **muhammadarslanrajput12@gmail.com**
--    <img src="https://media0.giphy.com/media/1KllEBZdsLBwt3sDMG/giphy.gif" alt="html5" width="400" height="500"align="right" />
 
 <h3 align="left">Connect with me:</h3>
+-    <img src="https://media0.giphy.com/media/1KllEBZdsLBwt3sDMG/giphy.gif" alt="html5" width="400" height="500"align="right" />
 
 <p align="left">
 <a href="https://fb.com/arslan rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arslan rajput" height="30" width="40" /></a>
