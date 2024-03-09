@@ -1,11 +1,11 @@
 <h1 align="center" color=bulle>Hi 👋, I'm Arslan Rajput</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
- <img src="https://media0.giphy.com/media/1KllEBZdsLBwt3sDMG/giphy.gif" alt="html5" width="40" height="40"/>
+
 
 - 🌱 I’m currently learning **Web and Mobile App development**
 
 - 📫 How to reach me **muhammadarslanrajput12@gmail.com**
-
+ <img src="https://media0.giphy.com/media/1KllEBZdsLBwt3sDMG/giphy.gif" alt="html5" width="80" height="900"align="right" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/arslan rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arslan rajput" height="30" width="40" /></a>
