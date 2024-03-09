@@ -1,5 +1,5 @@
 <h1 align="center" color=bulle>Hi 👋, I'm Arslan Rajput</h1>
-<h3 align="left">Connect with me:</h3> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/2108b1128233439.615236a4da3da.gif" alt="html5" width="400" height="500"align="right" />
+<h3 align="left">Connect with me:</h3> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/2108b1128233439.615236a4da3da.gif" alt="html5" width="300" height="500"align="right" />
 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
