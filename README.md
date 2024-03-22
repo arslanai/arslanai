@@ -1,5 +1,4 @@
-    <img src="Web-Development-1.jpg" alt="">
-
+<a href="" target="blank"><img align="center" src="Web-Development-1.jpg" alt="arslan rajput" height="30" width="40" /></a>
 <h1 align="center" color=bulle>Hi 👋, I'm Arslan Rajput</h1>
 <h3 align="left">Connect with me:</h3> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/2108b1128233439.615236a4da3da.gif" alt="html5" width="300" height="400"align="right" />
 
