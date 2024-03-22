@@ -1,4 +1,4 @@
- <a href="" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4E16AQElW2QVTYzFHw/profile-displaybackgroundimage-shrink_350_1400/0/1711040967512?e=1716422400&v=beta&t=RUxzmGIgwVXXI0mfi3m1vxQoRoVrnbLRI_2D-dKOifE" alt="arslan rajput" height="150" width="900" /></a>
+ <a href="" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4E16AQElW2QVTYzFHw/profile-displaybackgroundimage-shrink_350_1400/0/1711040967512?e=1716422400&v=beta&t=RUxzmGIgwVXXI0mfi3m1vxQoRoVrnbLRI_2D-dKOifE" alt="arslan rajput" height="190" width="1100" /></a>
 <h1 align="center" color=bulle>Hi 👋, I'm Arslan Rajput</h1>
 <h3 align="left">Connect with me:</h3> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/2108b1128233439.615236a4da3da.gif" alt="html5" width="300" height="400"align="right" />
 
